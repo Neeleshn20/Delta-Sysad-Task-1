@@ -1,0 +1,720 @@
+Name: Jennee 102122001 GarnetA 0 1 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Jacquelin 102122002 GarnetA 0 3 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Barbaraanne 102122003 GarnetA 1 1 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Doe 102122004 GarnetA 1 2 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Godiva 102122005 GarnetA 2 3 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Karla 102122006 GarnetA 2 2 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Lian 102122007 GarnetA 3 2 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Aili 102122008 GarnetA 3 3 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Sigrid 102122009 GarnetA 4 1 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Aimil 102122010 GarnetA 4 1 - 1 CHL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Katusha 103122001 GarnetA 5 1 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Christiana 103122002 GarnetA 5 3 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rosina 103122003 GarnetA 6 2 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Eileen 103122004 GarnetA 6 1 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Leyla 103122005 GarnetA 7 2 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Jewel 103122006 GarnetA 7 3 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Sarine 103122007 GarnetA 8 2 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rebeca 103122008 GarnetA 8 3 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Alameda 103122009 GarnetA 9 1 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Wenonah 103122010 GarnetA 9 2 - 1 CVL
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Carin 106122001 GarnetA 10 2 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Caprice 106122002 GarnetA 10 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Goldina 106122003 GarnetA 11 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Shay 106122004 GarnetA 11 3 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Luz 106122005 GarnetB 0 3 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Crista 106122006 GarnetB 0 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Kerstin 106122007 GarnetB 1 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rochella 106122008 GarnetB 1 3 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Gilemette 106122009 GarnetB 2 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Elfreda 106122010 GarnetB 2 1 - 1 CSE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Leontyne 107122001 GarnetB 3 3 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rhona 107122002 GarnetB 3 1 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Mabel 107122003 GarnetB 4 1 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Charyl 107122004 GarnetB 4 1 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Audre 107122005 GarnetB 5 3 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Devan 107122006 GarnetB 5 3 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Kym 107122007 GarnetB 6 1 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Kally 107122008 GarnetB 6 2 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Reena 107122009 GarnetB 7 2 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Sissy 107122010 GarnetB 7 2 - 1 EEE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Cathrine 108122001 GarnetB 8 1 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Emilia 108122002 GarnetB 8 1 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Dyan 108122003 GarnetB 9 3 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Mora 108122004 GarnetB 9 2 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rosmunda 108122005 GarnetB 10 2 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Ardella 108122006 GarnetB 10 3 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Darcey 108122007 GarnetB 11 3 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Nissy 108122008 GarnetB 11 3 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Doretta 108122009 Opal 0 1 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Yolanthe 108122010 Opal 0 3 - 1 ECE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Cynde 110122001 Opal 1 3 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Paulette 110122002 Opal 1 2 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Karrie 110122003 Opal 2 2 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Kirsteni 110122004 Opal 2 1 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Louella 110122005 Opal 3 3 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Mariellen 110122006 Opal 3 3 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Dione 110122007 Opal 4 2 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Carlita 110122008 Opal 4 3 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Anitra 110122009 Opal 5 3 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Aimee 110122010 Opal 5 2 - 1 ICE
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Laurette 111122001 Opal 6 2 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rafa 111122002 Opal 6 3 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Madalena 111122003 Opal 7 2 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Beitris 111122004 Opal 7 2 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Perl 111122005 Opal 8 3 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Elfrieda 111122006 Opal 8 2 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Kailey 111122007 Opal 9 2 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Gweneth 111122008 Opal 9 1 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Velvet 111122009 Opal 10 3 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Ola 111122010 Opal 10 1 - 1 MECH
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Andriette 112122001 Opal 11 3 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Karyl 112122002 Opal 11 3 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Saidee 112122003 Agate 0 1 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Thia 112122004 Agate 0 2 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Maure 112122005 Agate 1 1 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Audrye 112122006 Agate 1 1 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Dallas 112122007 Agate 2 2 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Ailsun 112122008 Agate 2 1 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Madelyn 112122009 Agate 3 2 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Antonella 112122010 Agate 3 1 - 1 MME
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Isidora 114122001 Agate 4 3 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Giulia 114122002 Agate 4 2 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Astra 114122003 Agate 5 1 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Laurena 114122004 Agate 5 2 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Rikki 114122005 Agate 6 1 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Aveline 114122006 Agate 6 3 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Shayna 114122007 Agate 7 1 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Lucienne 114122008 Agate 7 1 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Ofilia 114122009 Agate 8 3 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
+Name: Francisca 114122010 Agate 8 1 - 1 PROD
+Roll Number: 
+Department: 
+Year: 1
+Hostel: 
+Allocated Mess: 
+Month: 
+Mess Preferences: 
